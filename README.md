@@ -1,4 +1,4 @@
-# putils 
+# path 
 
 This is a collection of different of utilites for working with system paths
 such as PATH, LD_LIBRARY_PATH, NODE_MODULES, etc. the goal is to make it easier
